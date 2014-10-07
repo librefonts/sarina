@@ -1,0 +1,33 @@
+{
+  "name": "Sarina",
+  "designer": "James Grieshaber",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 42939,
+  "fonts": [
+    {
+      "name": "Sarina",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sarina-Regular.ttf",
+      "postScriptName": "Sarina-Regular",
+      "fullName": "Sarina-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Sarina\"."
+    },
+    {
+      "name": "Sarina",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Sarina-Regular-TTF.ttf",
+      "postScriptName": "Sarina-Regular",
+      "fullName": "Sarina",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Sarina\". "
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-12-19"
+}
